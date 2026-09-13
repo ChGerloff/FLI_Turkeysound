@@ -18,4 +18,5 @@ The data was labeled into sick and healthy data. The sick labeled data are the s
 
 Additionally to the first analysis a second analysis was done in which each of the individual days of two weeks which include the days in which the sickness was present in the compartment. This is done since the neural network in theory should have an easier time to accurately detect the sick days. Additionally when analysing the confusion matrix the days falsely categorized as another day should be categorized also as a sick labeled day if the correct label was sick and vise versa with the healthy days.  
 
-![Confusion_4split](https://github.com/ChGerloff/FLI_Turkeysound/tree/main/Images/Confusion_4split.pdf)
+<img src="./Images/Confusion_ZWT_4_5.png" alt="Alt Text" width="600" height="500">
+
